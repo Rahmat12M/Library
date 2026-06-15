@@ -1,0 +1,163 @@
+[
+  {
+    "isbn": "978-1-4028-9462-1",
+    "name": "The Silent Observatory",
+    "author": "L. M. Harrow",
+    "language": "English",
+    "published": "2019",
+    "cover": "https://picsum.photos/200/300?random=1",
+    "review": "7/10",
+    "themes": ["Mystery", "Science", "Isolation"]
+  },
+  {
+    "isbn": "978-1-60309-452-8",
+    "name": "Echoes of the Iron Coast",
+    "author": "Daniel R. Mercer",
+    "language": "English",
+    "published": "2021",
+    "cover": "https://picsum.photos/200/300?random=2",
+    "review": "6/10",
+    "themes": ["Adventure", "History", "Drama"]
+  },
+  {
+    "isbn": "978-0-553-21311-7",
+    "name": "Fragments of Tomorrow",
+    "author": "Aisha K. Bennett",
+    "language": "English",
+    "published": "2020",
+    "cover": "https://picsum.photos/200/300?random=3",
+    "review": "8/10",
+    "themes": ["Sci-Fi", "Memory", "Identity"]
+  },
+  {
+    "isbn": "978-1-250-30789-4",
+    "name": "The Glass Orchard",
+    "author": "Helena Voss",
+    "language": "English",
+    "published": "2018",
+    "cover": "https://picsum.photos/200/300?random=4",
+    "review": "7/10",
+    "themes": ["Family", "Mystery", "Drama"]
+  },
+  {
+    "isbn": "978-0-7432-7356-5",
+    "name": "Midnight Over Aramoor",
+    "author": "J. T. Caldwell",
+    "language": "English",
+    "published": "2022",
+    "cover": "https://picsum.photos/200/300?random=5",
+    "review": "9/10",
+    "themes": ["Fantasy", "Rebellion", "Epic"]
+  },
+  {
+    "isbn": "978-1-9848-1234-6",
+    "name": "The Cartographers Secret",
+    "author": "Rowan Ellery",
+    "language": "English",
+    "published": "2017",
+    "cover": "https://picsum.photos/200/300?random=6",
+    "review": "6/10",
+    "themes": ["Thriller", "Mystery", "Exploration"]
+  },
+  {
+    "isbn": "978-1-4516-7321-9",
+    "name": "Ashes Beneath the Snow",
+    "author": "Mira Solano",
+    "language": "English",
+    "published": "2019",
+    "cover": "https://picsum.photos/200/300?random=7",
+    "review": "7/10",
+    "themes": ["Drama", "Winter", "Psychological"]
+  },
+  {
+    "isbn": "978-0-316-76912-4",
+    "name": "The Last Emberfall",
+    "author": "Cedric Hale",
+    "language": "English",
+    "published": "2023",
+    "cover": "https://picsum.photos/200/300?random=8",
+    "review": "8/10",
+    "themes": ["Fantasy", "Magic", "Heroism"]
+  },
+  {
+    "isbn": "978-1-5247-6123-5",
+    "name": "Whispers in the Deepwood",
+    "author": "Evelyn Maren",
+    "language": "English",
+    "published": "2020",
+    "cover": "https://picsum.photos/200/300?random=9",
+    "review": "6/10",
+    "themes": ["Fantasy", "Folklore", "Mystery"]
+  },
+  {
+    "isbn": "978-0-399-59012-8",
+    "name": "The Clockmakers Paradox",
+    "author": "Tobias Renfield",
+    "language": "English",
+    "published": "2021",
+    "cover": "https://picsum.photos/200/300?random=10",
+    "review": "8/10",
+    "themes": ["Sci-Fi", "Time Travel", "Thriller"]
+  },
+  {
+    "isbn": "123-4-567-89012-3",
+    "name": "Der Herr der Ringe",
+    "author": "J. R. R. Tolkien",
+    "language": "Deutsch",
+    "published": "1954",
+    "cover": "https://picsum.photos/200/300?random=11",
+    "review": "2/10",
+    "themes": ["Fantasy", "Orks", "Elben"]
+  },
+
+  {
+    "isbn": "978-1-4028-1111-1",
+    "name": "Beneath Crimson Skies",
+    "author": "Elara Wynne",
+    "language": "English",
+    "published": "2022",
+    "cover": "https://picsum.photos/200/300?random=12",
+    "review": "7/10",
+    "themes": ["Adventure", "War", "Romance"]
+  },
+  {
+    "isbn": "978-1-4028-2222-2",
+    "name": "Neon Horizons",
+    "author": "Kai Morimoto",
+    "language": "English",
+    "published": "2024",
+    "cover": "https://picsum.photos/200/300?random=13",
+    "review": "8/10",
+    "themes": ["Sci-Fi", "Cyberpunk", "Action"]
+  },
+  {
+    "isbn": "978-1-4028-3333-3",
+    "name": "The Lighthouse at Frostbay",
+    "author": "Isla Penrose",
+    "language": "English",
+    "published": "2016",
+    "cover": "https://picsum.photos/200/300?random=14",
+    "review": "6/10",
+    "themes": ["Mystery", "Coastal", "Drama"]
+  },
+  {
+    "isbn": "978-1-4028-4444-4",
+    "name": "A Garden Made of Smoke",
+    "author": "Mateo Alvarez",
+    "language": "English",
+    "published": "2018",
+    "cover": "https://picsum.photos/200/300?random=15",
+    "review": "7/10",
+    "themes": ["Magical Realism", "Family", "Loss"]
+  },
+  {
+    "isbn": "978-1-4028-5555-5",
+    "name": "Runes of the Fallen Crown",
+    "author": "Sienna Drake",
+    "language": "English",
+    "published": "2023",
+    "cover": "https://picsum.photos/200/300?random=16",
+    "review": "9/10",
+    "themes": ["Fantasy", "Politics", "Epic"]
+  }
+]

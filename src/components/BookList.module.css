@@ -1,0 +1,39 @@
+.book-list {
+  display: grid;
+  gap: 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  padding: 1rem;
+  width: 100%;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  min-width: 200px;
+  max-width: 200px;
+  height: auto;
+  border-radius: 4px;
+
+}
+
+.card>.description {
+  text-align: left;
+}
+
+.card h3 {
+  font-size: x-large;
+}
+
+:global(body.dark) h1 {
+  color: var(--color-dark-mode);
+}
+
+:global(body.dark) .card {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--color-dark-mode);
+}

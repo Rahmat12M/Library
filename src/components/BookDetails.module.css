@@ -1,0 +1,16 @@
+.bookDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.bookDetails>p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.bookDetails button {
+  padding: 8px;
+  border-radius: 5px;
+  margin-top: 10px;
+}

@@ -1,0 +1,25 @@
+.buyList {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.buyList>p {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.buyList li {
+  text-align: start;
+  margin-bottom: 5px;
+}
+
+.buyList button {
+  padding: 3px;
+  border-radius: 5px;
+  margin-top: 3px;
+}
+
+:global(body.dark) .buyList {
+  color: var(--color-dark-mode)
+}
